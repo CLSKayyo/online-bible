@@ -1,9 +1,9 @@
 # Online Bible
 
-An simple, easy and responsive online portuguese Bible made with PHP and Ajax calls, for anyone who wants a fast look at the Bible online.
+Uma Bíblia responsiva simples e fácil feita em Javascript e PHP utilizando chamadas Ajax para todos que buscam uma olhada rápida a uma Bíblia online.
 
-[Click here](http://caiolucas.com.br/bible) to access.
+[Clique aqui](http://caiolucas.com.br/bible) para acessar.
 
 <img src="screenshots/Mobile.png" width="25%" /> <img src="screenshots/Desktop.png" width="70%" />
 
-Thanks to [Márcio Vinícius Sena](https://github.com/marciovsena) for the [bibleapi](https://github.com/marciovsena/bibleapi).
+Agradecimentos a [Márcio Vinícius Sena](https://github.com/marciovsena) pela [bibleapi](https://github.com/marciovsena/bibleapi).
