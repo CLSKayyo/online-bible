@@ -4,6 +4,6 @@ An simple, easy and responsive online portuguese Bible, for anyone who wants a f
 
 [Click here](http://caiolucas.com.br/bible) to access.
 
-![](image.png)
+![](screenshots/Desktop.png)
 
 Thanks to [Márcio Vinícius Sena](https://github.com/marciovsena) for the [bibleapi](https://github.com/marciovsena/bibleapi).
